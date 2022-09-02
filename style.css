@@ -50,7 +50,7 @@ nav {
 
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding-top: 50px;
 }
 .sign-up {
@@ -97,7 +97,7 @@ nav {
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-    padding: 100px 200px;
+    padding: 
 }
 
 cite {
@@ -162,4 +162,10 @@ ul {
 a {
     text-decoration: none;
     color:#F9FAF8;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 8px;
 }
